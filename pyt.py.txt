@@ -1,0 +1,7 @@
+a=5
+b=8
+c=a+b
+if c==12:
+   print("answer is true")
+else:
+   print("wrong")
