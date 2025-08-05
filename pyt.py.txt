@@ -4,4 +4,5 @@ c=a+b
 if c==12:
    print("answer is true")
 else:
-   print("wrong")
+   print("wrong answer")
+
