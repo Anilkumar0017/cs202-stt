@@ -6,3 +6,4 @@ if c==12:
 else:
    print("wrong answer")
 
+
